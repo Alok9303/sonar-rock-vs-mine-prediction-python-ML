@@ -18,7 +18,8 @@ This project uses the classic **Sonar dataset** to build a **binary classificati
 - **Jupyter Notebook**  
 - **pandas, NumPy** – Data processing  
 - **scikit-learn** – Machine learning model (Logistic Regression)  
-- **pickle** – Model serialization
+- **pickle** – Saving the model
+- - **pmml** – Saving the model
 
 ## 🚀 How It Works
 
